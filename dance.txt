@@ -1,0 +1,6 @@
+step left
+step right 
+move forward 
+jum down
+haha
+i've got you
